@@ -1,0 +1,22 @@
+{
+  "name": "com.ktgame.manager.job",
+  "version": "1.0.0",
+  "displayName": "com.ktgame.manager.job",
+  "description": "job system",
+  "author": {
+    "name": "ktgame",
+    "email": "khanhquang0912qh@gmail.com",
+    "url": "https://github.com/KhanhTQ-hub/com.ktgame.manager.job.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "dependencies": {
+    "com.ktgame.core": "1.0.15",
+    "com.ktgame.unitask": "1.0.4",
+    "com.unity.burst": "1.8.11",
+    "com.unity.mathematics": "1.2.6",
+    "com.unity.collections": "1.2.4"
+  }
+}
